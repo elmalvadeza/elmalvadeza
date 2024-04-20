@@ -38,27 +38,6 @@ main p{
     margin-top: 10px;
     border: 1px solid #fff;
 }
-
-
-/*form input[type="text"],
-form input[type="email"] {
-  
-}
-
-para mudar a setinha: cursor
-
-*/
-
-/*form input[type="submit"] {
-  width: 100%;
-  padding: 10px;
-  background-color: #4CAF50;
-  color: #fff;
-  border: none;
-  border-radius: 5px;
-  cursor: pointer;
-}*/
-
 body div{
     justify-content: right;
     display: flex;
